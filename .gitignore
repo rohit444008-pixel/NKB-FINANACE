@@ -1,0 +1,17 @@
+node_modules
+.next
+.vercel
+/work
+/outputs
+.env*
+!.env.example
+out
+coverage
+*.tsbuildinfo
+android/.gradle
+android/work
+android/**/build
+android/app/src/main/assets/public
+*.keystore
+*.jks
+*.apk
